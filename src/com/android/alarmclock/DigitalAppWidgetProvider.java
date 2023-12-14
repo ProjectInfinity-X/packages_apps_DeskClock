@@ -180,7 +180,8 @@ public class DigitalAppWidgetProvider extends AppWidgetProvider {
         IntentFilter intentFilter = new IntentFilter();
         intentFilter.addAction(ACTION_WORLD_CITIES_CHANGED);
         intentFilter.addAction(ACTION_ON_DAY_CHANGE);
-        context.getApplicationContext().registerReceiver(receiver, intentFilter);
+        context.getApplicationContext().registerReceiver(receiver, intentFilter,
+                Context.RECEIVER_NOT_EXPORTED);
 
         sReceiversRegistered = true;
     }
