@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2012-2016 The CyanogenMod Project
-     Copyright (C) 2017-2018 The LineageOS Project
+     Copyright (C) 2017-2024 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -39,4 +39,5 @@
     <string name="dialog_permissions_post_notifications">Esta aplicação depende de notificações. Sem elas, não pode ser executada!</string>
     <string name="selected">Selecionado</string>
     <string name="more_options">Mais opções</string>
+    <string name="screensaver_change_settings">Definições</string>
 </resources>
