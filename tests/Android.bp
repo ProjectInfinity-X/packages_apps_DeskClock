@@ -6,8 +6,8 @@ package {
 android_test {
     name: "DeskClockTests",
     libs: [
-        "android.test.runner",
-        "android.test.base",
+        "android.test.runner.impl",
+        "android.test.base.impl",
     ],
     static_libs: [
         "junit",
