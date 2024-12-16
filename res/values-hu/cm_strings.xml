@@ -42,5 +42,27 @@
     <string name="widget_choice_title">Válasszon stílust</string>
     <string name="widget_name_transparent">Háttérnélküli</string>
     <string name="widget_name_solid">Hátteres</string>
+    <string name="clock_brightness_percentage">%s%%</string>
+    <string name="night_mode_enabled_title">Engedélyezve</string>
+    <string name="night_mode_dnd_title">Kövesse a DND állapotát</string>
+    <string name="night_mode_dnd_summary">Az Éjjeli mód követni fogja a \'Ne zavarjanak\' helyzetét</string>
+    <string name="show_ampm_title">Napszak-megjelenítés</string>
+    <string name="show_ampm_summary">Beállítható, hogy a képernyővédőn a DE/DU jelzése megjelenik-e a 12 órás szöveges órán</string>
+    <string name="bold_text_title">Az Óra szövege vastag</string>
+    <string name="bold_text_summary">Beállítható, hogy a képernyővédő szövege félkövéren jelenik-e meg</string>
+    <string name="night_mode_brightness_text_title">Fényerő</string>
+    <string name="clock_color_title">Szín</string>
+    <string-array name="clock_color_entries">
+        <item>Fehér</item>
+        <item>Vörös</item>
+        <item>Zöld</item>
+        <item>Kék</item>
+    </string-array>
+    <string name="screensaver_settings_title">Képernyővédő</string>
+    <string name="screensaver_preview">Előnézet</string>
+    <string name="screensaver_preview_summary">A képernyővédő azonnali megtekintése</string>
     <string name="screensaver_change_settings">Beállítások</string>
+    <string name="screensaver_change_settings_summary">Megnyitja az Óra képernyővédő-beállításait</string>
+    <string name="screensaver_daydream_settings">A képernyővédő kiválasztása/bekapcsolása</string>
+    <string name="screensaver_daydream_settings_summary">Megnyitja a képernyővédő fő beállításait</string>
 </resources>
